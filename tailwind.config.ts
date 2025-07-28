@@ -52,6 +52,22 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+				collaborator: {
+					DEFAULT: 'hsl(var(--collaborator))',
+					foreground: 'hsl(var(--collaborator-foreground))'
+				},
+				developer: {
+					DEFAULT: 'hsl(var(--developer))',
+					foreground: 'hsl(var(--developer-foreground))'
+				},
+				promotion: {
+					DEFAULT: 'hsl(var(--promotion))',
+					foreground: 'hsl(var(--promotion-foreground))'
+				},
+				'success-subtle': {
+					DEFAULT: 'hsl(var(--success-subtle))',
+					foreground: 'hsl(var(--success-subtle-foreground))'
+				},
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
